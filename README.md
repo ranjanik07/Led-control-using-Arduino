@@ -58,27 +58,19 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-![WhatsApp Image 2024-11-27 at 15 15 19_5196583d](https://github.com/user-attachments/assets/0e0e094e-0579-4119-b405-a5335a0c51f4)
+![exp 1 iot](https://github.com/user-attachments/assets/ae8c0c28-c724-41a1-b70f-fe50bcddc96d)
 
 
 ## PROGRAM
-```
-void setup() 
-{
-  pinMode(A0,OUTPUT);
-}
-void loop() 
-{
-  digitalWrite(A0,HIGH);
-  delay(3000);
-  digitalWrite(A0,LOW);
-  delay(3000);
-}
-```
+![exp 1 iot pro](https://github.com/user-attachments/assets/1b577577-9921-4003-8da4-32d9f78ade84)
+
 
 ## OUTPUT
-![WhatsApp Image 2024-11-27 at 15 15 08_adb6fccc](https://github.com/user-attachments/assets/11cd85b9-30d5-4d51-8605-61395c0a4c21)
+LED ON: 
+![led on 1](https://github.com/user-attachments/assets/eca2031a-9378-4266-a4bc-b7304bd042b7)
 
+LED OFF:
+![led off 1](https://github.com/user-attachments/assets/dcb1b10b-9a42-4a8c-ac82-f342b88f16cd)
 
 
 ## RESULT
